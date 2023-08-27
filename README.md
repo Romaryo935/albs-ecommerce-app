@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![Untitled design](https://github.com/Romaryo935/albs-ecommerce-app/assets/64667507/ec16bbb5-5863-49cb-bdc1-1fa373710c7a)
